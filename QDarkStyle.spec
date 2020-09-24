@@ -4,7 +4,7 @@
 #
 Name     : QDarkStyle
 Version  : 2.8.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/83/52/40111409358173b1013231638f58793a4f43f935b8419919b47846d5e0a6/QDarkStyle-2.8.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/83/52/40111409358173b1013231638f58793a4f43f935b8419919b47846d5e0a6/QDarkStyle-2.8.1.tar.gz
 Summary  : The most complete dark stylesheet for Python and Qt applications
